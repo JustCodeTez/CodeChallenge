@@ -1,0 +1,16 @@
+commit 88be8d24dd50b4de32e43a948a2df6ffb06cf92b
+Author: Harshal Purohit <nightblade@localhost.localdomain>
+Date:   Sun Aug 4 23:22:25 2019 +0530
+
+    HP - Testing add contributor
+
+diff --git a/README.md b/README.md
+index f215e41..14cde2f 100644
+--- a/README.md
++++ b/README.md
+@@ -2,3 +2,5 @@
+ Automation code challenge
+ Hey this is Tejashree....
+ Started adding my automation code challenges and innovations inside this repository!! 
++
++Checking if a new contributor can be added to the project!!!
